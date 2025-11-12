@@ -8,7 +8,6 @@ function App() {
   const handleClick = (food) => {
     setMessage(`I love ${food}!`);
   };
-
   return (
     <div className="container text-center mt-5">
       <div className="card shadow p-4 mx-auto" style={{ maxWidth: "400px" }}>
