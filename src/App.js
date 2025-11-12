@@ -24,7 +24,7 @@ function App() {
                 className="btn btn-outline-danger btn-sm"
                 onClick={() => handleClick(food)}
               >
-                Show Love ❤️
+                Show Love 
               </button>
             </li>
           ))}
